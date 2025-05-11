@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/backjoon_algorithem.iml" filepath="$PROJECT_DIR$/.idea/backjoon_algorithem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/algorithem.iml" filepath="$PROJECT_DIR$/.idea/algorithem.iml" />
     </modules>
   </component>
 </project>
